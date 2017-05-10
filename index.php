@@ -1,6 +1,18 @@
 <!DOCTYPE html>
  <html>
- <body>
+ <head>
+	<style>
+		body {
+		font-family: "CalibreWeb-Light",sans-serif;
+		color: #333;
+		}
+		h3   {
+		font-family: "CalibreWeb-Light",sans-serif;
+		color: #292929;
+		}
+	</style>
+</head>
+<body>
   <div name="top" align="center">
  	<img src="images/top.jpg" width="900" height="230"/>
  </div>
